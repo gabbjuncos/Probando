@@ -1,0 +1,20 @@
+D:\Oscar\UTN\PAVI\2020\3k1\Practico\Clase1\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe.config
+D:\Oscar\UTN\PAVI\2020\3k1\Practico\Clase1\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe
+D:\Oscar\UTN\PAVI\2020\3k1\Practico\Clase1\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.pdb
+D:\Oscar\UTN\PAVI\2020\3k1\Practico\Clase1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csprojAssemblyReference.cache
+D:\Oscar\UTN\PAVI\2020\3k1\Practico\Clase1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.Properties.Resources.resources
+D:\Oscar\UTN\PAVI\2020\3k1\Practico\Clase1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.GenerateResource.cache
+D:\Oscar\UTN\PAVI\2020\3k1\Practico\Clase1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+D:\Oscar\UTN\PAVI\2020\3k1\Practico\Clase1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.exe
+D:\Oscar\UTN\PAVI\2020\3k1\Practico\Clase1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.pdb
+D:\Oscar\UTN\PAVI\2020\3k1\Practico\Clase1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.frmLogin.resources
+C:\Users\GJ\Desktop\Escritorio\UTN 2020\PAV1\Practico\Clase1 30072020-20200808\MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe.config
+C:\Users\GJ\Desktop\Escritorio\UTN 2020\PAV1\Practico\Clase1 30072020-20200808\MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe
+C:\Users\GJ\Desktop\Escritorio\UTN 2020\PAV1\Practico\Clase1 30072020-20200808\MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.pdb
+C:\Users\GJ\Desktop\Escritorio\UTN 2020\PAV1\Practico\Clase1 30072020-20200808\MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csprojAssemblyReference.cache
+C:\Users\GJ\Desktop\Escritorio\UTN 2020\PAV1\Practico\Clase1 30072020-20200808\MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.frmLogin.resources
+C:\Users\GJ\Desktop\Escritorio\UTN 2020\PAV1\Practico\Clase1 30072020-20200808\MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.Properties.Resources.resources
+C:\Users\GJ\Desktop\Escritorio\UTN 2020\PAV1\Practico\Clase1 30072020-20200808\MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.GenerateResource.cache
+C:\Users\GJ\Desktop\Escritorio\UTN 2020\PAV1\Practico\Clase1 30072020-20200808\MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\GJ\Desktop\Escritorio\UTN 2020\PAV1\Practico\Clase1 30072020-20200808\MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.exe
+C:\Users\GJ\Desktop\Escritorio\UTN 2020\PAV1\Practico\Clase1 30072020-20200808\MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.pdb
