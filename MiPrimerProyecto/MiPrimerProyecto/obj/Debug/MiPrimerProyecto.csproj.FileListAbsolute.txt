@@ -18,3 +18,8 @@ C:\Users\GJ\Desktop\Escritorio\UTN 2020\PAV1\Practico\Clase1 30072020-20200808\M
 C:\Users\GJ\Desktop\Escritorio\UTN 2020\PAV1\Practico\Clase1 30072020-20200808\MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.CoreCompileInputs.cache
 C:\Users\GJ\Desktop\Escritorio\UTN 2020\PAV1\Practico\Clase1 30072020-20200808\MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.exe
 C:\Users\GJ\Desktop\Escritorio\UTN 2020\PAV1\Practico\Clase1 30072020-20200808\MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.pdb
+C:\Users\GJ\Desktop\Escritorio\UTN 2020\PAV1\Practico\Clase1 30072020-20200808\MiPrimerProyecto\PruebaGit\Probando\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csprojAssemblyReference.cache
+C:\Users\GJ\Desktop\Escritorio\UTN 2020\PAV1\Practico\Clase1 30072020-20200808\MiPrimerProyecto\PruebaGit\Probando\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.frmLogin.resources
+C:\Users\GJ\Desktop\Escritorio\UTN 2020\PAV1\Practico\Clase1 30072020-20200808\MiPrimerProyecto\PruebaGit\Probando\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.GenerateResource.cache
+C:\Users\GJ\Desktop\Escritorio\UTN 2020\PAV1\Practico\Clase1 30072020-20200808\MiPrimerProyecto\PruebaGit\Probando\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.exe
+C:\Users\GJ\Desktop\Escritorio\UTN 2020\PAV1\Practico\Clase1 30072020-20200808\MiPrimerProyecto\PruebaGit\Probando\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.pdb
