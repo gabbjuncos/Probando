@@ -25,7 +25,11 @@ namespace MiPrimerProyecto
             //if (this.txtUsuario.Text=="")
             if (this.txtUsuario.Text == string.Empty)
             {
+<<<<<<< HEAD
                 MessageBox.Show("Ingrese usuario valido");
+=======
+                MessageBox.Show("Falta cargar el usuario");
+>>>>>>> 4063e346af600f801f92650f3e98e60961b365d5
                 this.txtUsuario.Focus();
                 return;
             }
