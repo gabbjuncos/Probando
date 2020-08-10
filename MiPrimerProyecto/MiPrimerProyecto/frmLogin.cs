@@ -25,7 +25,7 @@ namespace MiPrimerProyecto
             //if (this.txtUsuario.Text=="")
             if (this.txtUsuario.Text == string.Empty)
             {
-                MessageBox.Show("Debe ingresar Usuario...");
+                MessageBox.Show("Falta cargar el usuario");
                 this.txtUsuario.Focus();
                 return;
             }
