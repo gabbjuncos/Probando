@@ -36,6 +36,7 @@ namespace MiPrimerProyecto
                 MessageBox.Show("Debe ingresar Clave...");
                 this.txtClave.Focus();
                 return;
+                
             }
 
             //Validar usuario y clave
@@ -43,8 +44,9 @@ namespace MiPrimerProyecto
             string msj = "";
             if (this.txtUsuario.Text == this.user && this.txtClave.Text == this.pass)
             {
-                msj = "Login OK";
+                msj = "Acceso Correcto al sistema";
                 MessageBox.Show(msj, "Ingreso al Sistema", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                this.Close();
             }
             else
             {
